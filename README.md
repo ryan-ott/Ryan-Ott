@@ -1,51 +1,67 @@
-<p align="center">
-<a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
-</a>
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=25&duration=2000&pause=1000&color=1CB2FC&multiline=true&repeat=true&width=850&height=125&lines=Ryan+Ott;MSc+Student+of+Artificial+Intelligence+%40+University+of+Amsterdam;Checkout+Product+%40+Adyen;Machine+Learning+%7C+NLP+%7C+Fintech)](https://git.io/typing-svg)
 
-<a href="https://gkos.tech">
+<center>
+<p>
+<!-- <a href="https://gkos.tech">
     <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
-</a>  
+</a>   -->
 <a href="https://gkos.tech/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
-<a href="https://www.linkedin.com/in/konstantinos-georgiou/">
+<a href="https://www.linkedin.com/in/ryanott2000/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:georgiou.kostas94@gmail.com">
+<a href="mailto:ott.r21@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href='https://scholar.google.com/citations?user=b___QQ8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
-    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a>
-<a href="https://pypi.org/user/drkostas/">
-    <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
-</a>
-<!-- <a href="https://pypi.org/user/drkostas/">
-    <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
-</a> -->
 
-<br/> 
-
-<!-- <a href="https://github.com/drkostas">
-    <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a> -->
-
-<a href="https://github.com/drkostas">
-    <img src="https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<a href="https://pypi.org/user/ryanott/">
+    <img src="https://img.shields.io/badge/PyPi-ryanott-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Ott)](https://github.com/anuraghazra/github-readme-stats) -->
+</center>
+
+
 
 </p>
 
-* 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
+* 📖 Pursuing a MSc in Artificial Intelligence @ [The University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html)
 
-* 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
+* 🎓 Bachelor Thesis on **Text Summarisation** using **Transformer Networks**
 
-* 💡 Open to collaborating on projects and innovative ideas. 
+* 💡 Interested in **Machine Learning**, **Natrual Lanugage Processing** & **Fintech**
 
-* 💻 Currently working on Semantic Segmentation, Domain Adaptation, and Remote Sensing.
+* 📚 Currently learning **Reinforcement Learning** & **Deep Learning**
 
+
+### 🛠 Languages & Frameworks
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <h3 align="center">Programming Languages</h4>
+        <img style="margin: auto;" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img style="margin: auto;" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img style="margin: auto;" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+        <img style="margin: auto;" src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" />
+      </td>
+      <td align="center" valign="top" width="50%">
+        <h3 align="center">Frameworks</h4>
+        <img style="margin: auto;" src="https://img.shields.io/badge/PyTorch-BB4D00?style=flat-square&logo=pytorch&logoColor=white" />
+        <img style="margin: auto;" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img style="margin: auto;" src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+        <img style="margin: auto;" src="https://img.shields.io/badge/NLTK-01A2A6?style=flat-square" />
+        <img style="margin: auto;" src="https://img.shields.io/badge/Spacy-09A3D5?style=flat-square" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<!-- 
 ### 🖥️ Open-Source Projects
 <table>
 <tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
@@ -111,6 +127,4 @@ My Github Stats
 <br>
 Currently Coding & Listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
-
-</details>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621) -->
