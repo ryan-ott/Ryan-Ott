@@ -41,11 +41,12 @@
   <tbody>
     <tr>
       <td align="center" valign="top" width="50%">
-        <h3 align="center">Programming Languages</h4>
+        <h3 align="center">Languages</h4>
         <img style="margin: auto;" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img style="margin: auto;" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
         <img style="margin: auto;" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
         <img style="margin: auto;" src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" />
+        <img style="margin: auto;" src="https://img.shields.io/badge/SQL-CA8922?style=flat-square&logo=sql&logoColor=white" />
       </td>
       <td align="center" valign="top" width="50%">
         <h3 align="center">Frameworks</h4>
