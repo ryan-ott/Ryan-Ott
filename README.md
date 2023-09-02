@@ -32,7 +32,7 @@
 
 * 💡 Interested in **Machine Learning**, **Natrual Lanugage Processing** & **Fintech**
 
-* 📚 Currently learning **Reinforcement Learning** & **Deep Learning**
+* 📚 Currently learning **Machine Learning** & **Computer Vision**
 
 
 ### 🛠 Languages & Frameworks
