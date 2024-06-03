@@ -30,9 +30,9 @@
 
 * 🎓 Bachelor Thesis on **Text Summarisation** using **Transformer Networks**
 
-* 💡 Interested in **Machine Learning**, **Natrual Lanugage Processing** & **Fintech**
+* 💡 Interested in **Machine Learning**, **Computer Vision** & **Fintech**
 
-* 📚 Currently learning **Machine Learning** & **Computer Vision**
+* 📚 Currently learning **Interpretability & Explainability**
 
 
 ### 🛠 Languages & Frameworks
