@@ -28,11 +28,13 @@
 
 * 📖 Pursuing a MSc in Artificial Intelligence @ [The University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html)
 
+* 👨‍🚀 Interning @ European Space Agency for AI and ML for Space Standards Analysis
+
 * 🎓 Bachelor Thesis on **Text Summarisation** using **Transformer Networks**
 
-* 💡 Interested in **Machine Learning**, **Computer Vision** & **Fintech**
+* 💡 Interested in **Machine Learning**, **Natural Language Processing** & **Computer Vision**
 
-* 📚 Currently learning **Interpretability & Explainability**
+* 📚 Currently learning about **Interpretability & Explainability**
 
 
 ### 🛠 Languages & Frameworks
