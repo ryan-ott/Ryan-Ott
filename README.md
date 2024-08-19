@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=25&duration=2000&pause=1000&color=1CB2FC&multiline=true&repeat=true&width=850&height=125&lines=Ryan+Ott;MSc+Student+of+Artificial+Intelligence+%40+University+of+Amsterdam;Checkout+Product+%40+Adyen;Machine+Learning+%7C+NLP+%7C+Fintech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&height=65&lines=MSc+AI+%40+UvA;AI+%26+ML+Analysis+%40+ESA)](https://git.io/typing-svg)
 
 <center>
 <p>
