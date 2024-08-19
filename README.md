@@ -28,7 +28,7 @@
 
 * 📖 Pursuing a MSc in Artificial Intelligence @ [The University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html)
 
-* 👨‍🚀 Interning @ [European Space Agency]("https://www.esa.int/") for AI and ML for Space Standards Analysis
+* 👨‍🚀 Interning @ [European Space Agency](https://www.esa.int/) for AI and ML for Space Standards Analysis
 
 * 🎓 Bachelor Thesis on **Text Summarisation** using **Transformer Networks**
 
