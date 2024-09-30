@@ -5,7 +5,7 @@
 <!-- <a href="https://gkos.tech">
     <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
 </a>   -->
-<a href="https://gkos.tech/Resume.pdf">
+<a href="https://ryan-ott.github.io/CV/RyanOtt-CV.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/ryanott2000/">
