@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&height=65&lines=MSc+AI+%40+UvA;AI+%26+ML+Analysis+%40+ESA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72268&vCenter=true&multiline=true&width=420&height=75&lines=MSc+AI+%40+Universiteit+van+Amsterdam;Explainable+AI+%40+BMW)](https://git.io/typing-svg)
 
 <center>
 <p>
@@ -28,7 +28,7 @@
 
 * 📖 Pursuing a MSc in Artificial Intelligence @ [The University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html)
 
-* 👨‍🚀 Interning @ [European Space Agency](https://www.esa.int/) for AI and ML for Space Standards Analysis
+* 🚗 Writing my Master Thesis @ [BMW](https://www.bmw.com/en/index.html) applying Explainable AI to Optimise Car Drivetrain Error Classification Models
 
 * 🎓 Bachelor Thesis on **Text Summarisation** using **Transformer Networks**
 
